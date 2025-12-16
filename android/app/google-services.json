@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422604363912",
+    "project_id": "pizza-delivery-aa3bd",
+    "storage_bucket": "pizza-delivery-aa3bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422604363912:android:add9ed9d6978c058b4e73d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznx7P-p1VqOs9LKzQqKdSqDaVVzPlWJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
